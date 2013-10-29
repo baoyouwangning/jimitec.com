@@ -1,2 +1,4 @@
-jimitec.com
-===========
+jimiTec
+=========
+Welcome!
+http://www.jimitec.com/
